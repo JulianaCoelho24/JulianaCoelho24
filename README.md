@@ -1,4 +1,4 @@
-## Olá! Eu sou a Juliana Coelho 👋
+## Olá! Eu sou a Juliana 👋
 
 
 - 🌱 Javascript, HTML, CSS
